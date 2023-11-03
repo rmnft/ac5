@@ -1,0 +1,4 @@
+a,a,0
+b,b,1
+Raphael,,050900
+Lari,Moda,67890

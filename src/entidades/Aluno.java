@@ -27,4 +27,12 @@ public class Aluno {
         return matricula;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setMatricula(String matricula) {
+        this.matricula = matricula;
+    }
+
 }
